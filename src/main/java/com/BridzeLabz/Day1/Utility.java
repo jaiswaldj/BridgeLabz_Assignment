@@ -16,6 +16,16 @@ public class Utility {
         }
         return reverse;
     }
+
+    public static void doublecalculation() {
+    }
+
+    public static void calculation() {
+    }
+
+    public static void checkSpringSeason(int month, int day) {
+    }
+
     public int inputInteger() {
         // TODO Auto-generated method stub
         return 0;
